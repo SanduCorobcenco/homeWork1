@@ -29,5 +29,8 @@ The Webpage accessibility was increased implementing accepted criteria standards
 * Website: https://sanducorobcenco.github.io/homework1/
 * Source: https://github.com/SanduCorobcenco/homework1
 
-
+## Screenshot:
+<p>
+    <img src="./assets/images/2020-12-18_19-29-46.png" width="220" height="240" />
+</p>
 
