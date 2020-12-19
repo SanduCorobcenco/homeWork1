@@ -28,3 +28,6 @@ The Webpage accessibility was increased implementing accepted criteria standards
 ## Directory:
 * Website: https://sanducorobcenco.github.io/homework1/
 * Source: https://github.com/SanduCorobcenco/homework1
+
+
+./assets/images/search-engine-optimization.jpg
