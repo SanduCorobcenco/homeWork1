@@ -30,4 +30,6 @@ The Webpage accessibility was increased implementing accepted criteria standards
 * Source: https://github.com/SanduCorobcenco/homework1
 
 
-
+<p>
+    <img src="./assets/images/search-engine-optimization.jpg" width="220" height="240" />
+</p>
