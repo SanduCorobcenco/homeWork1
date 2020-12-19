@@ -30,4 +30,4 @@ The Webpage accessibility was increased implementing accepted criteria standards
 * Source: https://github.com/SanduCorobcenco/homework1
 
 
-./assets/images/search-engine-optimization.jpg
+
