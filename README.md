@@ -31,6 +31,6 @@ The Webpage accessibility was increased implementing accepted criteria standards
 
 ## Screenshot:
 <p>
-    <img src="./assets/images/2020-12-18_19-29-46.png" width="720" height="1920" />
+    <img src="./assets/images/2020-12-18_19-29-46.png" width="1280" height="1920" />
 </p>
 
